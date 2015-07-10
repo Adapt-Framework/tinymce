@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+  <bundle>
+    <name>tinymce</name>
+    <label>Tiny MCE</label>
+    <version>4.2.0</version>
+    <type>extension</type>
+    <description>Tiny MCE Text Editor</description>
+    <copyright>2015 Ephox</copyright>
+  </bundle>
+</adapt_framework>
