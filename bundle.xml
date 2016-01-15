@@ -5,6 +5,7 @@
     <label>Tiny MCE</label>
     <version>4.2.0</version>
     <type>extension</type>
+    <namespace>\tinymce</namespace>
     <description>Tiny MCE Text Editor</description>
     <copyright>2015 Ephox</copyright>
   </bundle>
