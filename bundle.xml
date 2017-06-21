@@ -3,7 +3,7 @@
   <bundle>
     <name>tinymce</name>
     <label>Tiny MCE</label>
-    <version>4.2.0</version>
+    <version>1.0.0</version>
     <type>extension</type>
     <namespace>\tinymce</namespace>
     <description>Tiny MCE Text Editor</description>
